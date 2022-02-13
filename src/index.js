@@ -4,7 +4,7 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 // import __ from "lodash/fp/__";
 // import PropTypes from 'prop-types'
-import "./styles/style.scss";
+// import "./styles/style.scss";
 
 ReactDOM.render(
   <React.StrictMode>
