@@ -6,3 +6,11 @@
 @import "./index.css";
 @import "./App.css";
 
+table {
+  tbody {
+    img{
+      width: 2rem;
+      height: 2rem;
+    }
+  }
+}
